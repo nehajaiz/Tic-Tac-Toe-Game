@@ -18,3 +18,6 @@ HTML • CSS • JavaScript
 ▶️ Run Locally
 
 Open index.html in your browser.
+
+
+📸 Screenshot
